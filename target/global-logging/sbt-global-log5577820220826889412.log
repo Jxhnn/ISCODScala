@@ -1,0 +1,14 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\John\Desktop\iSCOD 2023\28 - Sécurité des applications web\Exercice\scalaProject\target\scala-3.5.1\classes ...
+[warn] -- Warning: C:\Users\John\Desktop\iSCOD 2023\28 - Sécurité des applications web\Exercice\scalaProject\src\main\scala\main.scala:5:2 
+[warn] 5 |  @main
+[warn]   |  ^
+[warn]   |  main and main produce classes that overwrite one another
+[warn] one warning found
+[info] done compiling
+[success] Total time: 5 s, completed 7 oct. 2024, 16:58:24
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

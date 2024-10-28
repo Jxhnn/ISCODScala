@@ -1,0 +1,5 @@
+[warn] -- Warning: C:\Users\John\Desktop\iSCOD 2023\28 - Sécurité des applications web\Exercice\scalaProject\src\main\scala\main.scala:5:2 
+[warn] 5 |  @main
+[warn]   |  ^
+[warn]   |  main and main produce classes that overwrite one another
+[warn] one warning found

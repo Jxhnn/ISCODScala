@@ -1,0 +1,20 @@
+[debug] > Exec(test, None, None)
+[debug] Evaluating tasks: Test / test
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\John\Desktop\iSCOD 2023\28 - Sécurité des applications web\Exercice\scalaProject\target\scala-3.5.1\test-classes ...
+[info] done compiling
+[info] FirstTest:
+[info] - 2 + 2 = 5 *** FAILED ***
+[info]   4 did not equal 5 (FirstTest.scala:9)
+[info] - 1 + 1 = 2
+[info] - plouf !!! IGNORED !!!
+[info] Run completed in 174 milliseconds.
+[info] Total number of tests run: 2
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 1, failed 1, canceled 0, ignored 1, pending 0
+[info] *** 1 TEST FAILED ***
+[error] Failed tests:
+[error] 	FirstTest
+[error] (Test / test) sbt.TestsFailedException: Tests unsuccessful
+[error] Total time: 1 s, completed 7 oct. 2024, 16:59:20
+[debug] > Exec(idea-shell, None, None)
